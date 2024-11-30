@@ -1,8 +1,8 @@
 {
-    "url": "https://github.com/rfelecT/swaggerXSS/xss-fetch.yaml",
+    "url": "https://raw.githubusercontent.com/rfelecT/swaggerXSS/refs/heads/main/xss-fetch.yaml",
     "urls": [
         {
-            "url": "https://github.com/rfelecT/swaggerXSS/xss-fetch.yaml",
+            "url": "https://raw.githubusercontent.com/rfelecT/swaggerXSS/refs/heads/main/xss-fetch.yaml",
             "name": "XSS payload"
         }
     ]
